@@ -1,3 +1,3 @@
 # odin-recipes
 
-This project is about learning the HTMl basics.
+This project is about learning the HTML basics.
